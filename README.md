@@ -5,3 +5,7 @@
 This app is the final result of the course React Fundamentals which you can find here + other additions like animations and extra functionality
 
 Launch App
+
+#### Demo
+
+https://the-github-battle.netlify.app
